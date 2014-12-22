@@ -35,35 +35,35 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Perimedes the blacke-smith a golden methode, how to vse the minde in pleasant and profitable exercis
+
+1. To the Right worship. Geruis Cliffton Esqui•e, Robert Greene wisheth increa•e of worship and Vertue.
+
+1. To the Gentlemen readers, Health.
+
+1. Au R. Greene Gentilhōme, Sonnet.
+
 #####Body#####
 
-1. The first nightes discourse.
+1. Perymedes.
 
-    _ Perymedes tale.
+    _ The first nightes discourse.
 
-    _ Delia hir tale.
+      * Perymedes tale.
 
-    _ Perymedes tale.
+    _ The second nights discourse.
 
-1. The second nights discourse.
+      * Delia hir tale.
 
-    _ Perymedes tale.
+    _ The third nights exercise.
 
-    _ Delia hir tale.
-
-    _ Perymedes tale.
-
-1. The third nights exercise.
-
-    _ Perymedes tale.
-
-    _ Delia hir tale.
-
-    _ Perymedes tale.
+      * Perymedes tale.
 
 #####Back#####
-Perimedes the blacke-smith a golden methode, how to vse the minde in pleasant and profitable exercis
+
+1. William Bubb Gentleman, to his freend the Author.
+
+1. The Author.
+WHen the Caldees ruled in Aegypt, as the Gimnosophists did in India, and the Sophi in Greece, they v
 **Types of content**
 
   * There are 166 **verse** lines!
